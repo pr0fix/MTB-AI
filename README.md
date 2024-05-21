@@ -1,11 +1,9 @@
-# Mountain Bike AI
+# Mountain Biking AI
 
 Final project for the Building AI course
 
 ## Summary
-
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+This project is about making an AI that provides real-time power consumption and usage guidance for mountain bikers. By utilizing data from sensors that measure speed, cadence, incline, heart rate and power output, the AI helps mountain bikers optimize their performance, improve safety and enhance their overall mountain biking experience. 
 
 ## Background
 More often than not especially unexperienced mountain bikers face challenges optimizing their power output based of varying terrains, leading to fatigue or inefficient riding. This problem is common among all mountain bikers but especially amongst unexperienced ones. In areas with diverse terrain the rider must be aware of their power consumption to be able to ride longer distances.
@@ -23,27 +21,19 @@ The device or app is designed to be used in various environments typical for mou
 
 Primary users of this solution are mountain bikers of all skill levels from beginners to experienced professionals. It serves the diverse needs of all users including improving performance, enhancing safety, preventing fatigue- and straining-related injuries and maximizing users enjoyment during the ride.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Mountain-bike-jump.jpg" alt="mountain biker" width="600">
 
 ## Data sources and AI methods
 The data used in the solutions are collected from users themselves. When developing the solution some test runs are probably needed which means that different types of riders would have to go for mountain bike rides wearing a device that measures different values. The riders would have to be different from each other in terms of body weight, height, skill level, etc. to be sure that the test data is diverse enough.
 
 ## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+One of the primary challenges with this implementation is the accuracy of the AI's predictions and suggestions. There is always a possibility that the AI might make incorrect recommendations, which needs to be considered during development. Riders should not blindly follow all AI recommendations without question and must be aware of their own physical limits. For instance, if a rider feels exhausted and the AI suggests increasing power output on an incline, the rider should prioritize their wellbeing and ignore the AI's recommendation. Ensuring that the AI serves as a guide rather than an absolute authority is crucial to maintaining rider safety and preventing injuries.
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+Right now my project is just a shell or an idea of something that could possibly be done. I do not have enough knowledge of software development or AI to finish this kind of project, so firstly I would need to develop my own skills in the field or find people around me who are capable of doing something like this.
 
 ## Acknowledgments
-
+[Mountain biker jumping. Rider: Lee Collis, Location: Rothbury, Northumberland, UK by Andy Armstrong](https://commons.wikimedia.org/wiki/File:Mountain-bike-jump.jpg) / [CC BY 2.5 DEED](https://creativecommons.org/licenses/by/2.5/)
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
