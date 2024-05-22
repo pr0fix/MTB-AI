@@ -34,8 +34,3 @@ Right now my project is just a shell or an idea of something that could possibly
 
 ## Acknowledgments
 [Mountain biker jumping. Rider: Lee Collis, Location: Rothbury, Northumberland, UK by Andy Armstrong](https://commons.wikimedia.org/wiki/File:Mountain-bike-jump.jpg) / [CC BY 2.5 DEED](https://creativecommons.org/licenses/by/2.5/)
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
